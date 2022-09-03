@@ -1,5 +1,5 @@
-name: PM-PluginTemplate
-main: space\yurisi\pluginname
+name: HappySmile
+main: space\yurisi\HappySmile
 author: yurisi
 # depend:
 #   - EconomyAPI
